@@ -1,16 +1,31 @@
-## Hi there 👋
+# E ai? Blz? Eu sou o Gabriel!
 
-<!--
-**Grs2080w/Grs2080w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Sou Dev a pouco tempo, mas já gosto muito nicho! Desenvolvo em algumas linguagens e sempre estou tentando aprender novas tecnologias!
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Grs2080w&show_icons=true&theme=dark" />
+  <img width="23.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grs2080w&layout=pie&theme=dark" />
+</div>
+
+<br>
+<br>
+
+
+<div style="margin: auto; width: fit-content;">
+  <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="60px" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img width="60px" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="60px" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img width="60px" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="60px" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+  <img width="60px" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img width="60px" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="60px" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</div>
+
+
+  
+          
