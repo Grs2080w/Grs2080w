@@ -1,5 +1,8 @@
 # E ai? Blz? Eu sou o Gabriel!
 
+![freepik-export-20241202010216EXOP](https://github.com/user-attachments/assets/32114102-2967-4ce9-9046-55d294df80d7)
+
+
 > Sou Dev a pouco tempo, mas já gosto muito nicho! Desenvolvo em algumas linguagens e sempre estou tentando aprender novas tecnologias!
 
 <br>
