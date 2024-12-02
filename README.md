@@ -1,4 +1,4 @@
-# E ai? Blz? Eu sou o Gabriel!
+# E ai? Blz? Eu sou o Gabriel!👾
 
 > Sou Dev a pouco tempo, mas já gosto muito nicho! Desenvolvo em algumas linguagens e sempre estou tentando aprender novas tecnologias!
 
@@ -13,7 +13,7 @@
 <br>
 
 <div style="display: flex;">
-    <img width="6%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img width="6%" align="center" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" />
     <img width="6%" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
     <img width="6%" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img width="6%" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
