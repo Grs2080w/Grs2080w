@@ -2,7 +2,7 @@
 
 <br>
 
-<div align="center">
+<div style="border-radius: 20px;" align="center">
 
   <img width="60%" src="output-onlinegiftools.gif" alt="">
 
