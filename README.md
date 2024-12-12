@@ -1,6 +1,6 @@
 # E ai? Blz? Eu sou o Gabriel!👾
 
-<img width="60%" src="animation.gif-ezgif.com-effects.gif" alt="">
+<img width="60%" src="output-onlinegiftools.gif" alt="">
 
 > Sou Dev a pouco tempo, mas já gosto muito nicho! Desenvolvo em algumas linguagens e sempre estou tentando aprender novas tecnologias!
 
