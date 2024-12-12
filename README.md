@@ -1,10 +1,14 @@
 # E ai? Blz? Eu sou o Gabriel!👾
 
+<br>
+
 <div align="center">
 
   <img width="60%" src="output-onlinegiftools.gif" alt="">
 
 </div>
+
+<br>
 
 > Sou Dev a pouco tempo, mas já gosto muito nicho! Desenvolvo em algumas linguagens e sempre estou tentando aprender novas tecnologias!
 
