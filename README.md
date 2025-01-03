@@ -4,7 +4,7 @@
 
 <div style="border-radius: 20px;" align="center">
 
-  <img width="60%" src="output-onlinegiftools.gif" alt="">
+  <img width="70%" src="octocat-1735930694870.png" alt="">
 
 </div>
 
