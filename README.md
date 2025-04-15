@@ -11,8 +11,7 @@
 <br>
 
 <div>
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Grs2080w&show_icons=true&theme=highcontrast" />
-  <img width="23.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grs2080w&layout=pie&theme=highcontrast" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Grs2080w&show_icons=true&theme=highcontrast" />
 </div>
 
 <br>
