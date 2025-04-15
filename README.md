@@ -10,8 +10,8 @@
 
 <br>
 
-<div>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Grs2080w&show_icons=true&theme=highcontrast" />
+<div align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Grs2080w&show_icons=true&theme=highcontrast" />
 </div>
 
 <br>
