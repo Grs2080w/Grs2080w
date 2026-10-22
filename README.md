@@ -23,11 +23,11 @@
 ![Static Badge](https://img.shields.io/badge/Language%20-%20pt--br-fff)
 
 
-> Sou Desenvolvedor Full Stack Junior com 2 anos de experiência e graduando pela Universidade do Oeste Paulista. Apaixonado por pensar em soluções simples para problemas complexos, prezo por boas práticas como Performance, Código bom e Usabilidade para entregar sistemas confiáveis e fáceis de manter. Estou em busca de novas oportunidades para demonstrar meus conhecimentos e atingir novos objetivos em equipe.
+> Sou Desenvolvedor Full Stack Junior, graduando pela Universidade do Oeste Paulista e pela Fatec de Presidente Prudente (SP). Apaixonado por pensar em soluções simples para problemas complexos, prezo por boas práticas como Performance, Código bom e Usabilidade para entregar sistemas confiáveis e fáceis de manter. Estou em busca de novas oportunidades para demonstrar meus conhecimentos e atingir novos objetivos em equipe.
 
 ![Static Badge](https://img.shields.io/badge/Language%20-%20en-fff)
 
-> I am a Junior Full Stack Developer with 2 years of experience and a graduate student at the University of Western São Paulo. Passionate about finding simple solutions to complex problems, I value best practices such as Performance, good Code, and Usability to deliver reliable and easy-to-maintain systems. I am looking for new opportunities to demonstrate my knowledge and achieve new goals as part of a team.
+> I am a Junior Full Stack Developer, graduate student at the University of Western São Paulo and at Fatec of Presidente Prudente (SP) in Brazil. Passionate about finding simple solutions to complex problems, I value best practices such as Performance, good Code, and Usability to deliver reliable and easy-to-maintain systems. I am looking for new opportunities to demonstrate my knowledge and achieve new goals as part of a team.
 
 
 # My Favorite Tools
